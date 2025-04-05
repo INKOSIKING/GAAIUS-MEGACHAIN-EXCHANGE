@@ -1,6 +1,6 @@
 # GAAIUS MEGACHAIN Exchange
 
-GAAIUS MEGACHAIN is a global exchange that combines all the features of Binance, Coinbase, Uniswap, and beyond.
+GAAIUS MEGACHAIN is a global  exchange that combines all the features of Binance, Coinbase, Uniswap, and beyond.
 
 ### Features 
 
